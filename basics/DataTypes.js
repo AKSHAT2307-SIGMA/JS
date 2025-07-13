@@ -20,4 +20,4 @@ let state = null
 
 console.log(typeof name)
 console.log(typeof undefined)
-console.log(typeof null)
+console.log(typeof null) 
